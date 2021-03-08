@@ -1,3 +1,6 @@
+/* Project idea and code from https://www.w3schools.com/howto/howto_js_todolist.asp */
+/* Also, how did I never realize that I could comment CSS?? */
+
 /* This includes the padding and border in each item's width and height.*/
 * {
     box-sizing: border-box;
